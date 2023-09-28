@@ -31,9 +31,6 @@
 
 ![Home Page I](./front/src/assets/Home.PNG)
 
-## **📍 ABOUT PAGE**
-
-![About Page](./front/src/assets/AboutPAge.PNG)
 
 ## **⚠️ REQUISITOS PARA INSTALAR LOCALMENTE**
 

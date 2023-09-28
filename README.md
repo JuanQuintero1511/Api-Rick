@@ -38,7 +38,7 @@
 ## **⚠️ REQUISITOS PARA INSTALAR LOCALMENTE**
 
 1. Instalar PostgreSQL.
-2. Crear una base de datos con el nombre de 'dogs'.
+2. Crear una base de datos con el nombre de 'rickadndmorty'.
 3. Dentro de ./api crear un archivo .env con sus credenciales, como se muestra a continuación:
 
    ```env
